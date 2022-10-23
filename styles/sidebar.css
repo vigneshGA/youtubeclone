@@ -1,0 +1,29 @@
+.side-bar {
+  background-color: white;
+  position: fixed;
+  top: 57px;
+  left: 0;
+  bottom: 0;
+  width: 72px;
+  font-family: roboto, arial;
+  padding-top: 5px;
+  z-index: 100;
+}
+.nav {
+  font-size: 10px;
+  height: 74px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  color: black;
+}
+.sidebar-icon {
+  height: 24px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.nav:hover {
+  background-color: rgb(235, 230, 230);
+}

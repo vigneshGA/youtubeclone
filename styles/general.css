@@ -1,0 +1,11 @@
+.body {
+  margin: 0;
+  padding-left: 96px;
+  padding-right: 24px;
+  padding-top: 80px;
+  background-color: rgb(247, 247, 247);
+  padding-bottom: 24px;
+}
+.main {
+  display: block;
+}
