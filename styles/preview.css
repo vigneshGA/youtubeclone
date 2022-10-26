@@ -69,7 +69,7 @@ p{
 a {
   text-decoration: none;
 }
-@media (max-width:500px) {
+@media screen and (min-width:300px) and (max-width: 500px) {
   .video-grid{
     display: grid;
     grid-template-columns: 1fr;
